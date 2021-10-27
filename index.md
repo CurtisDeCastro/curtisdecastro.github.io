@@ -1,19 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to Curtual Reality
 
-You can use the [editor on GitHub](https://github.com/CurtisDeCastro/curtisdecastro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.github.io/edit/main/index.md) or [LinkedIn](https://linkedin.com/in/curtis415) to see my latest work first.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+Here is where a table of my ongoing projects, descriptions and expected release dates will go
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### IoT Projects
+- Zephyrus
+- Anemoi
+
+### Software Projects
+- ValidAIt
+- AnnotAIt
+
+## Work Experience
+1. Image Quality Review Engineer (Samsara)
+2. Hardware Engineering Associate (Samsara)
+3. Operations Manager (Hermes Econometrics)
+4. Compliance Officer (Mercury Securities)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+```
 
 - Bulleted
 - List
@@ -24,7 +34,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
