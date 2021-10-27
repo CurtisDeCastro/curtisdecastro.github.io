@@ -1,4 +1,4 @@
-You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.github.io/edit/main/index.md) or [LinkedIn](https://linkedin.com/in/curtis415) to see my latest work first.
+You can follow me on [Github](https://github.com/CurtisDeCastro) or [LinkedIn](https://linkedin.com/in/curtis415) to see my latest work first.
 
 ## Projects
 
