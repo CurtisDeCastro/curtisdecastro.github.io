@@ -2,44 +2,26 @@ You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.g
 
 ## Projects
 
-Here is where a table of my ongoing projects, descriptions and expected release dates will go
+Here is where a table of my `ongoingProjects`, descriptions and expected release dates will go
 
-### IoT Projects
+### _IoT_
 - Zephyrus
 - Anemoi
 
-### Software Projects
+### _Software Projects_
 - ValidAIt
 - AnnotAIt
 
 ## Work Experience
-1. Image Quality Review Engineer (Samsara)
-2. Hardware Engineering Associate (Samsara)
-3. Operations Manager (Hermes Econometrics)
-4. Compliance Officer (Mercury Securities)
+1. Image Quality Review Engineer (**Samsara**)
+2. Hardware Engineering Associate (**Samsara**)
+3. Operations Manager (**Hermes Econometrics**)
+4. Compliance Officer (**Mercury Securities**)
 
 ```markdown
 Syntax highlighted code block
 
 ```
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CurtisDeCastro/curtisdecastro.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
