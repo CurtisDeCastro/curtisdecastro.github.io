@@ -4,6 +4,10 @@ You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.g
 
 Here is where a table of my `ongoingProjects`, descriptions and expected release dates will go
 
+| NAME | DESCRIPTION | RELEASE DATE |
+| --- | --- | --- |
+| Zephyrus | IoT Bliss | 4/20 |
+
 ### _IoT_
 - Zephyrus
 - Anemoi
