@@ -2,8 +2,6 @@ You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.g
 
 ## Projects
 
-Here is where a table of my `ongoingProjects`, descriptions and expected release dates will go
-
 | Name | Description | Release Date |
 | --- | --- | --- |
 | Zephyrus | IoT Platform for Fire Management | 06/2022 |
