@@ -4,23 +4,29 @@ You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.g
 
 Here is where a table of my `ongoingProjects`, descriptions and expected release dates will go
 
-| NAME | DESCRIPTION | RELEASE DATE |
+| Name | Description | Release Date |
 | --- | --- | --- |
-| Zephyrus | IoT Bliss | 4/20 |
-
-### _IoT_
-- Zephyrus
-- Anemoi
-
-### _Software Projects_
-- ValidAIt
-- AnnotAIt
+| Zephyrus | IoT Platform for Fire Management | 06/2022 |
+| CValid | Computer Vision data validation toolkit | 12/2021 |
+| AnnotAIt | Video analysis application for teams | 12/2021 |
+| Jobsite | Webapp for connecting employers and job-seekers | 05/2021 |
+| Catwalk | eCommerce Platform for Clothing Company | 05/2021 |
 
 ## Work Experience
-1. Image Quality Review Engineer (**Samsara**)
-2. Hardware Engineering Associate (**Samsara**)
-3. Operations Manager (**Hermes Econometrics**)
-4. Compliance Officer (**Mercury Securities**)
+1. **Samsara** Image Quality Review Engineer (_05/2019 - 03/2020_)
+```
+- bullet1
+- bullet2
+```
+3. **Samsara** Hardware Engineering Associate (_12/2018 - 05/2019_)
+```
+```
+5. **Hermes Econometrics** Operations Manager (_06/2017 - 11/2018_)
+```
+```
+7. **Mercury Securities** Compliance Officer (_06/2017 - 11/2018_)
+```
+```
 
 ```markdown
 Syntax highlighted code block
