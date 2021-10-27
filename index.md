@@ -1,7 +1,3 @@
-# Welcome to Curtual Reality
-
-You can follow me on [Github](https://github.com/CurtisDeCastro/curtisdecastro.github.io/edit/main/index.md) or [LinkedIn](https://linkedin.com/in/curtis415) to see my latest work first.
-
 ## Projects
 
 Here is where a table of my ongoing projects, descriptions and expected release dates will go
