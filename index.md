@@ -1,4 +1,4 @@
-# Projects
+## Projects
 
 | Name | Description | Release Date |
 | --- | --- | --- |
@@ -8,7 +8,7 @@
 | Jobsite | Webapp for connecting employers and job-seekers | 05/2021 |
 | Catwalk | eCommerce Platform for Clothing Company | 05/2021 |
 
-# Work Experience
+## Work Experience
 1. **Samsara** - _Image Quality Review Engineer_ (05/2019 - 03/2020)
 2. **Samsara** - _Hardware Engineering Associate_ (12/2018 - 05/2019)
 3. **Hermes Econometrics** - _Operations Manager_ (06/2017 - 11/2018)
