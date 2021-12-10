@@ -5,8 +5,8 @@
 | Zephyrus | IoT Platform for Fire Management | 06/2022 |
 | CValid | Computer Vision data validation toolkit | 12/2021 |
 | AnnotAIt | Video analysis application for teams | 12/2021 |
-| Jobsite | Webapp for connecting employers and job-seekers | 05/2021 |
-| Catwalk | eCommerce Platform for Clothing Company | 05/2021 |
+| [JobsiteAPI](https://github.com/Atlantic-Web-Consultancy/JobSiteAPI) | Webapp for connecting employers and job-seekers | 05/2021 |
+| [SuperbShop](https://github.com/SuperbShop/Storefront) | eCommerce Platform for Clothing Company | 05/2021 |
 
 ## Work Experience
 1. **Samsara** - _Image Quality Review Engineer_ (05/2019-03/2020)
