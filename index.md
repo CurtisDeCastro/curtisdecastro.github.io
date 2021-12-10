@@ -2,11 +2,11 @@
 
 | Name | Description | Release Date |
 | --- | --- | --- |
-| Zephyrus | IoT Platform for Fire Management | 06/2022 |
-| CValid | Computer Vision data validation toolkit | 12/2021 |
-| AnnotAIt | Video analysis application for teams | 12/2021 |
 | [JobsiteAPI](https://github.com/Atlantic-Web-Consultancy/JobSiteAPI) | Webapp for connecting employers and job-seekers | 05/2021 |
 | [SuperbShop](https://github.com/SuperbShop/Storefront) | eCommerce Platform for Clothing Company | 05/2021 |
+| CValid | Computer Vision data validation toolkit | Jan. 2022 |
+| AnnotAIt | Video analysis application for teams | Jan. 2022 |
+| Zephyrus | IoT Platform for Fire Management | Mid-2022 |
 
 ## Work Experience
 1. **Samsara** - _Image Quality Review Engineer_ (05/2019-03/2020)
@@ -14,7 +14,7 @@
 3. **Hermes Econometrics** - _Operations Manager_ (06/2017-11/2018)
 4. **Mercury Securities** - _Compliance Officer_ (06/2017-11/2018)
 
-
+12/10/21 Update: In the coming weeks I will fill this page in with more examples of work that I'm doing and some posts on topics that I've been researching. Stay tuned, and if we happen to speak in the mean time please feel welcome to ask any questions that arise from this page.
 
 You can follow me on [Github](https://github.com/CurtisDeCastro) or [LinkedIn](https://linkedin.com/in/curtis415) to see my latest work first.
 
